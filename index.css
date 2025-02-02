@@ -30,6 +30,7 @@ div.top {
 h1.time {
     text-align: center;
     text-decoration: wavy underline;
+    font-size: medium;
 }
 
 div#crypto {
